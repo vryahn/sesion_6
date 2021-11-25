@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    border-radius: 2%;
+    text-align: center;    
+}
+
+#R1 {
+    background-color: gray;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    top: 0px;
+    width: 100%
+}
+
+#R2{
+    background-color: green;
+    margin-bottom:25px;
+    position: absolute;
+    top: 17%;
+    height: 30%;
+    width: 25%;
+}
+
+#R3{
+    background-color: red;
+    position: absolute;
+    top: 53%;
+    height: 30%;
+    width: 25%;    
+}
+
+
+#R4{
+    background-color: hotpink;
+    position: absolute;
+    left: 30%;
+    top: 17%;
+    height: 66%;
+    width: 70%;
+}
+
+#R5{
+    background-color: aqua;
+    position: absolute;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    bottom: 0px;
+    width: 100%;
+}
